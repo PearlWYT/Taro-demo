@@ -25,4 +25,4 @@ h5: {
     "taro-ui": "^3.0.0-alpha"
   }
 3.重新 npm install
-4.重启项目 yarn dev:weapp
+4.重启项目 yarn dev:weapp 或 yarn add taro-ui@3.0.0-alpha.3
